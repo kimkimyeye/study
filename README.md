@@ -126,6 +126,14 @@ formstyle, tablestyle, 서체 서버에서 받아서 쓰기
 #### css
 display, visiblity, opacity, ::before, ::after, accent-color
 
+## 0314
+#### 디자인 이론
+​UI/UX 디자인 개념, 종류, 트렌드와 모바일 환경, 속성, 종류, 서비스, 기술동향, 디자인 종류 등 배움 ios와 안드로이드 디자인 가이드 배움
+#### css
+em, rem, viewport, flex
+
+​
+
 ​
 
 ​
