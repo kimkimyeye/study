@@ -130,7 +130,13 @@ display, visiblity, opacity, ::before, ::after, accent-color
 #### 디자인 이론
 ​UI/UX 디자인 개념, 종류, 트렌드와 모바일 환경, 속성, 종류, 서비스, 기술동향, 디자인 종류 등 배움 ios와 안드로이드 디자인 가이드 배움
 #### css
-em, rem, viewport, flex
+em, rem, viewport, flex-direction, flex-wrap
+
+## 0315
+#### css
+flex-flow​, gap, justify-content, align-item, align-content, align-self 배움 flex 연습하기
+
+
 
 ​
 
