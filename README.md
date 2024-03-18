@@ -136,6 +136,12 @@ em, rem, viewport, flex-direction, flex-wrap
 #### css
 flex-flow​, gap, justify-content, align-item, align-content, align-self 배움 flex 연습하기
 
+## 0318
+#### 디자인
+디자인 기획 이론, 앱디자인 기획 실습
+#### css
+flex 연습하기
+
 
 
 ​
