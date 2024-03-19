@@ -142,6 +142,12 @@ flex-flow​, gap, justify-content, align-item, align-content, align-self 배움
 #### css
 flex 연습하기
 
+## 0319
+#### 디자인
+앱 리뉴얼 분석, 경쟁사 앱 분석
+#### css
+flex 연습, 수열 선택자
+
 
 
 ​
