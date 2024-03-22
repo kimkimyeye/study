@@ -143,16 +143,22 @@ flex-flow​, gap, justify-content, align-item, align-content, align-self 배움
 flex 연습하기
 
 ## 0319
-#### 디자인
+#### 기획
 앱 리뉴얼 분석, 경쟁사 앱 분석
 #### css
-flex 연습, 수열 선택자
+flex 연습, 수열 선택자 배움
 
 ## 0320
-#### 디자인
+#### 기획
 경쟁사 앱 분석, UX/UI goal 작성
 #### css
-수열 선택자 연습, background
+수열 선택자 연습, background 배움
+
+## 0321
+#### 기획
+페르소나 수립, UX vision, as is => to be 정하기
+#### css
+background 연습, flexitem 배움
 
 
 
