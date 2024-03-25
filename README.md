@@ -166,6 +166,15 @@ background 연습, flexitem 배움
 #### css
 flexitem 연습, 레이아웃 연습
 
+## 0325
+#### 기획
+와이어프레임 제작
+#### css
+레이아웃 연습, position-relative, position_absolute, position_fixed 배움
+
+​
+
+
 
 ​
 
