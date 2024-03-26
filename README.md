@@ -172,6 +172,12 @@ flexitem 연습, 레이아웃 연습
 #### css
 레이아웃 연습, position-relative, position_absolute, position_fixed 배움
 
+## 0326
+#### 기획
+와이어 프레임 제작
+#### css
+position 연습하기
+
 ​
 
 
