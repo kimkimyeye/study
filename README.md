@@ -143,40 +143,45 @@ flex-flow​, gap, justify-content, align-item, align-content, align-self 배움
 flex 연습하기
 
 ## 0319
-#### 기획
 앱 리뉴얼 분석, 경쟁사 앱 분석
 #### css
 flex 연습, 수열 선택자 배움
 
 ## 0320
-#### 기획
 경쟁사 앱 분석, UX/UI goal 작성
 #### css
 수열 선택자 연습, background 배움
 
 ## 0321
-#### 기획
 페르소나 수립, UX vision, as is => to be 정하기
 #### css
 background 연습, flexitem 배움
 
 ## 0322
-#### 기획
 정보구조도, 메뉴트리, 사용자 시나리오 
 #### css
 flexitem 연습, 레이아웃 연습
 
 ## 0325
-#### 기획
 와이어프레임 제작
 #### css
 레이아웃 연습, position-relative, position_absolute, position_fixed 배움
 
 ## 0326
-#### 기획
 와이어 프레임 제작
 #### css
 position 연습하기
+
+## 0327
+와이어 프레임 제작, 워크 플로우 제작
+#### css
+position_fixed 배움, position 연습하기 z-index 배움
+
+​
+
+​
+
+
 
 ​
 
