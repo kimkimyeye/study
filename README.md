@@ -183,6 +183,11 @@ position_fixed 배움, position 연습하기 z-index 배움
 #### css
 position 연습, ​aspect-ratio, object-fit, 레이아웃 연습​​
 
+## 0329
+프로토타입 제작
+#### css
+레이아웃 연습
+
 ​
 
 ​​
