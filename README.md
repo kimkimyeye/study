@@ -207,6 +207,9 @@ transform 연습 animation 배움
 프로토타입 제작, ppt 제작
 #### css
 animation 연습
+
+## 0405
+uiux 실습 ppt 제작, 발표
 ​
 ​​
 ​
