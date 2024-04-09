@@ -213,7 +213,11 @@ uiux 실습 ppt 제작, 발표
 ​
 ​​## 0408
 완료보고서 작성
-css
+#### css
+web layout 연습
+
+## 0409
+#### css
 web layout 연습
 
 ​
