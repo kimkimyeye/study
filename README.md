@@ -226,6 +226,10 @@ web layout 연습​
 ## 0411
 #### css
 web layout 연습​, grid 배움
+
+## 0412 
+#### css
+grid 연습,  Media Queries 배움
 ​
 
 
