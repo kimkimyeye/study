@@ -192,7 +192,7 @@ position 연습, ​aspect-ratio, object-fit, 레이아웃 연습​​
 #### css
 transform, transition 배움
 
-​## 0402
+## 0402
 프로토타입 제작
 #### css
 transform 연습
