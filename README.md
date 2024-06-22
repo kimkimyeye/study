@@ -1,95 +1,233 @@
 # study
-##0618
-#### 포트폴리오
 
-##0617
+## 0622
 #### 포트폴리오
+아더에러 소개 페이지 컨텐츠 정리, 디자인
+아더에러, 오트밀 스튜디오 내용 수정
 
-##0610
+## 0621
+#### 포트폴리오
+오트밀 스튜디오 완료 보고서 수정
+오트밀 스튜디오 소개 페이지 컨텐츠 정리, 디자인
+
+## 0620
+#### 포트폴리오
+hince 소개 페이지 html css완성
+
+## 0619
+#### 포트폴리오
+hince 소개 페이지 컨텐츠 정리, 디자인
+
+## 0618
+#### 포트폴리오
+포트폴리오 소개 페이지 컨텐츠 정리, 구성 디자인
+
+## 0617
 #### hince 프로젝트
+event 섹션 html, css, js 작성
+디테일 수정
+hince 프로젝트 메인페이지 완성
 
-##0530
+## 0614
+#### hince 프로젝트
+collection 섹션 컨텐츠 추가
+collection 섹션 완성
+event 섹션 디자인 변경
+
+## 0613
+#### hince 프로젝트
+메인 스와이퍼 컨텐츠 디자인 수정
+메인 섹션 완성
+shop 스와이퍼 디자인 적용
+new arrivals, most loved, product 섹션 완성
+
+## 0612
+#### hince 프로젝트
+공통 css 작성
+섹션 별 css 작성
+메인 스와이퍼 적용
+
+## 0611
+#### hince 프로젝트
+html 작성
+css 스와이퍼 공부
+
+## 0610
+#### hince 프로젝트
+hince 웹사이트 디자인 시안 완성
+html 작성
+
+## 0607
+#### hince 프로젝트
+프로젝트 주제 선정
+hince 웹사이트 디자인
+
+## 0605
 #### 포트폴리오
+파비콘, 오픈그라피 작성
+포트폴리오 메인페이지 완성
 
-##0527
-#### 리액트
+## 0604
+#### 포트폴리오
+skill 섹션 css 애니메이션 수정
+project 텍스트 내용 수정
+contact 내용 수정
+contact, about css 애니메이션 추가
 
-##0523
+## 0603
+#### react
+
+#### 포트폴리오
+about, contact 섹션 html, css 작성
+about 텍스트 타이핑 js 작성
+project list 섹션 css 애니메이션 추가
+
+## 0602
+#### 포트폴리오
+about, contact 디자인 수정
+about부분 텍스트 내용 수정
+
+## 0601
+#### 포트폴리오
+css 작성, 애니메이션 추가
+헤더 부분 스크립트 작성
+
+## 0531
+#### 포트폴리오
+css grid 레이아웃 구역 나누기
+공통 css 작성
+
+## 0530
+#### 포트폴리오
+html 구조작성, 시멘틱마크업
+
+## 0529
+#### 포트폴리오
+포트폴리오 메인 페이지 디자인
+
+## 0528
+#### 포트폴리오
+포트폴리오 메인 페이지 디자인
+
+## 0524
+#### 아더에러 프로젝트
+발표 및 보고서 제출
+#### 포트폴리오
+포트폴리오 방향 설정, 컨텐츠 구성 정리
+
+## 0523
 #### Ajax
+async, await, Fetch API, JSON 배움
+#### 아더에러 프로젝트
+프로젝트 발표 자료 제작
 
-##0520
-#### 제이쿼리
+## 0522
+#### 아더에러 프로젝트
+피그마에 pc, 모바일 최종 디자인 정리
+collabo, index 유효성검사 오류 수정
+collabo page 여백 수정
+collabo, index css 변수 적용
 
-##0517
+## 0521
 #### 제이쿼리
+GSAP 플러그인 사용한 웹사이트 제작 연습
+#### 아더에러 프로젝트
+index zoom-in 스크립트 수정
+index zoom-in, product list 모바일/태블릿 완성
+collabo pc 수정
+
+## 0520
+#### 제이쿼리
+GSAP 플러그인 배움, GSAP 플러그인 예제 연습
+#### 아더에러 프로젝트
+collabo page 모바일, 태블릿 사이즈 수정
+index zoom-in 스크립트 수정
+index product list 모바일 버전 구현
+
+## 0517
+#### 제이쿼리
+스크롤 이벤트 웹사이트 제작 연습
+#### 아더에러 프로젝트
+collabo page 태블릿버전 구현
+collabo page js 구현
+index page js 수정
 
 ##0516
 #### 제이쿼리
+resize 배움, swiper 플러그인, vegas 플러그인 배움
 #### 아더에러 프로젝트
-- collabo page mobile html, css 구현
-- collabo page js 구현
-- index page zoom section 구현 1차 완료
+collabo page mobile html, css 구현
+collabo page js 구현
+index page zoom section 구현 1차 완료
 
-
-##0515
+## 0515
 #### 제이쿼리
+horizontalScrolling 배움, progressBar 만들기, 
+마우스 좌표 구하기, 마우스 커서 제어 배움
 #### 아더에러 프로젝트
--collabo page pc html, css 1차 완성
--collabo page pc js 구현
--favicon 추가
+collabo page pc html, css 1차 완성
+collabo page pc js 구현
+favicon 추가
 
-##0514
+## 0514
 #### 제이쿼리
+제이쿼리 스크롤 이벤트 예제 풀기
 #### 아더에러 프로젝트
 Github Organization 개설
 collabo page pc htrml 및 css 구현
 collabo page 모바일 디자인 수정
 
-##0513
+## 0513
 #### 제이쿼리
+제이쿼리 스크롤 이벤트 예제 풀기
 #### 아더에러 프로젝트
 앞으로의 진행방향 회의 및 퍼블리싱 가이드(클래스명 및 파일명),
 포지션 정함(기술리더 - gsap 및 scss 학습)
 디자인 완성 및 마크업 작업
 
-##0510
-제이쿼리
+## 0510
+#### 제이쿼리
+offset, scroll관련 속성, window 객체 사이즈 구하는 법 배움
 #### 아더에러 프로젝트
 서브 페이지 디자인 완료, 메인 페이지 디자인
 
 ##0509
 #### 제이쿼리
+제이쿼리 애니메이션 배움, 제이쿼리 슬라이드 갤러리 예제 풀기
 #### 아더에러 프로젝트
 서브 페이지 디자인 수정
 
-##0508
+## 0508
 #### 제이쿼리
+제이쿼리 애니메이션 배움, 애니메이션 예제 풀기
 #### 아더에러 프로젝트
 메인 페이지 구성 및 서브 페이지 디자인
 
-##0507
+## 0507
 #### 제이쿼리
-제이쿼리 예제 연습
+제이쿼리 예제 연습, prependTo / appendTo, remove / empty, hasClass 배움
 #### 아더에러 프로젝트
 팀 리더 및 깃허브 관리자 선정
 벤치마킹 홈페이지 선정 및 브랜드
 프로젝트 페이지 구성 결정
 
-##0503
+## 0503
 #### 제이쿼리
-addClass / removeClass, attr 배움
+addClass / removeClass, attr 배움, 제이쿼리 활용 예제 연습
 
-##0502
+## 0502
 #### 제이쿼리
 제이쿼리 개념 학습, 제이쿼리 선택자 학습, eventMethod 배움, fade / show / slide 관련 이벤트
 
 ## 0501
 ## 자바스크립트
-자바스크립트 예제 연습, 제이쿼리 DOM 개념 학습, class 제어 방법, event 제어 배움
+자바스크립트 예제 연습
+## 제이쿼리
+DOM 개념 학습, class 제어 방법, event 제어 배움
 
 ## 0430
 #### 자바스크립트
-spread전개구문, Array(filter, find, forEach, map, reduce)배움, 배열 예제 연습
+spread전개구문, 배열Array(filter, find, forEach, map, reduce)배움, 배열 예제 연습
 
 ## 0429
 #### 자바스크립트 
@@ -116,10 +254,12 @@ for 반복문, 지역변수 전역변수 차이 배움, 제어문 연습
 codepen적용법, 자바스크립트 기초, 데이터타입, dialog, 변수, 대입 연산자, 산술 연산자, 문자열 연산자 배움
 
 ## 0419
-반응형 웹 페이지 만들기, css 변수 배움, 스와이퍼 적용법, grid 연습
+#### css
+반응형 웹 페이지 만들기 연습, css 변수 배움, 스와이퍼 적용법, grid 연습
 
 ## 0418
-반응형 웹 페이지 만들기
+#### css
+반응형 웹 페이지 만들기 연습
 
 ## 0417
 #### css
@@ -143,17 +283,17 @@ web layout 연습​, grid 배움
 
 ## 0410
 #### css
-web layout 연습​
+웹사이트 만들기 연습
 
 ## 0409
 #### css
-web layout 연습
+웹사이트 만들기 연습
 
 ## 0408
 #### 오트밀 스튜디오 프로젝트
 완료보고서 작성
 #### css
-web layout 연습
+웹사이트 만들기 연습
 
 ## 0405
 #### 오트밀 스튜디오 프로젝트
@@ -181,7 +321,7 @@ transform 연습
 #### 오트밀 스튜디오 프로젝트
 프로토타입 제작
 #### css
-transform, transition 배움
+transform(scale, rotate, skew) transition 배움
 
 ## 0329
 #### 오트밀 스튜디오 프로젝트
@@ -217,13 +357,13 @@ position 연습하기
 #### 오트밀 스튜디오 프로젝트
 정보구조도, 메뉴트리, 사용자 시나리오 
 #### css
-flexitem 연습, 레이아웃 연습
+flexitem 연습, 웹사이트 메인페이지 만들기 연습
 
 ## 0321
 #### 오트밀 스튜디오 프로젝트
 페르소나 수립, UX vision, as is => to be 정하기
 #### css
-background 연습, flexitem 배움
+background 연습, 그라디언트 배움, flexitem 배움
 
 ## 0320
 #### 오트밀 스튜디오 프로젝트
@@ -251,7 +391,7 @@ flex-flow​, gap, justify-content, align-item, align-content, align-self 배움
 #### 디자인 이론
 ​UI/UX 디자인 개념, 종류, 트렌드와 모바일 환경, 속성, 종류, 서비스, 기술동향, 디자인 종류 등 배움 ios와 안드로이드 디자인 가이드 배움
 #### css
-em, rem, viewport, flex-direction, flex-wrap
+em단위, rem단위, viewport, flex-direction, flex-wrap
 
 ## 0313
 #### 피그마
@@ -275,7 +415,7 @@ box-sizing, 줄바꿈 word-break word-space, overflow
 #### 피그마
 프로토타입, 섹션으로 묶어서 관리하는 법, 공유작업 하는 법 / 피그마 마크업 분석 실습​
 #### css
-모서리 조절 border-radius, list-style, 실제 크기 계산법​
+모서리 조절 border-radius, list-style, 요소의 실제 크기 계산법​
 
 ## 0307
 #### 피그마
@@ -293,7 +433,7 @@ box-sizing, 줄바꿈 word-break word-space, overflow
 #### 피그마
 컴포넌트 만들기, 프로토타입, 오토 레이아웃
 #### css
-font, test 관련 태그, 행간 자간 어간 조절, 선택자에 대해서 배움
+font, text 관련 태그, 행간 자간 어간 조절, 선택자에 대해서 배움
 
 ## 0304
 #### 피그마
@@ -305,7 +445,7 @@ css 기본 구조, 선언 방법, 상속과 우선순위에 대하여 배움, co
 #### 포토샵
 웹사이트 디자인 실습
 #### html
-meta, open graph
+meta, open graph 배움
 
 ## 0228
 #### 포토샵
